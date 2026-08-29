@@ -1,10 +1,11 @@
 # Scrum-syklin yleiskuvaus
-    - Jaetaan viikon / sprintin tehtävät ryhmän kesken teams puhelussa
+    - Jaetaan viikon / sprintin tehtävät ryhmän kesken Teams-puhelussa
     - Vaihdetaan scrum-masteria sprinttien vaihtuessa
-    - käydään scrum-tapaamisissa tehdyt asiat ja mitä pitää saada tehtyä seuraavaan mennessä
+    - Käydään scrum-tapaamisissa tehdyt asiat ja mitä pitää saada tehtyä seuraavaan mennessä
 
 # Sprintit
     - Kurssin ohjeen mukaan sprinttien kesto 
+    - Jokainen tekee oman osuutensa omalla ajallaan
 
 # Työjonot
     - Product Backlog = kaikki projektiin liittyvät tehtävät ja ideat
