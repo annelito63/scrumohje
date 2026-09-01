@@ -24,3 +24,8 @@
 
 # Miksi Scrum toimii?
     - Scrum toimii koska työ pilkotaan pieniin osiin ja siinä keskitytään myös ryhmän jäsenten keskenäiseen vuorovaikutukseen jolloin jokainen pysyy ajan tasalla projektin kulusta
+
+# Määritelmä valmiista 
+    - Tehtävä on valmis, kun koodi on commitoitu ja pushattu
+    - muutokset on testattu ja ne toimivat oletetusti
+    - koodi on katselmoitu ainakin yhden muun tiimin jäsenen toimesta
