@@ -15,6 +15,7 @@
 
 # Roolit
     - Scrum-master = vaihtuu sprinttien välissä ryhmän jäsenestä toiseen (osallistuu myös ohjelmistoprojektin kehittämiseen)
+    - Development Team = tiimin jäsenet, jotka toteuttavat sprintin tehtävät
     - Sprintin roolit jaetaan yhteisessä palaverissa ryhmän jäsenten kesken
     
 # Kokoukset
