@@ -5,6 +5,8 @@
 
 # Sprintit
     - Kurssin ohjeen mukaan sprinttien kesto 
+    - Jokainen sprintti alkaa suunnittelupalaverilla, jossa valitaan Product Backlogista tehtävät kyseiseen sprinttiin
+    - Käydään ennen sprintin päättymistä läpi, että mitä sprintissä saatiin aikaiseksi
 
 # Työjonot
     - Product Backlog = kaikki projektiin liittyvät tehtävät ja ideat
@@ -14,7 +16,7 @@
 # Roolit
     - Scrum-master = vaihtuu sprinttien välissä ryhmän jäsenestä toiseen (osallistuu myös ohjelmistoprojektin kehittämiseen)
     - Sprintin roolit jaetaan yhteisessä palaverissa ryhmän jäsenten kesken
-
+    
 # Kokoukset
     - Kokoukset pyritään järjestämään perjantaina, luennon jälkeen -> ryhmän oma teams-puhelu
     - Käydään läpi työnjako, aikaan saatu työ ja kuinka mennään eteenpäin
